@@ -1,4 +1,4 @@
-# 小鹤音形-反查 Alfred workflow
+# 小鹤音形-形码反查 Alfred workflow
 
 
 支持 `中文->编码`/`编码->中文` 查询:  
